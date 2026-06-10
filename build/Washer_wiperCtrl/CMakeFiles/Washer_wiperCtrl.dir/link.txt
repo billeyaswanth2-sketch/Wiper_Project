@@ -1,0 +1,2 @@
+C:\Users\BYASWA~1\DOWNLO~1\WINLIB~1.0-R\mingw64\bin\ar.exe qc libWasher_wiperCtrl.a CMakeFiles/Washer_wiperCtrl.dir/washer_wiperCtrl.c.obj
+C:\Users\BYASWA~1\DOWNLO~1\WINLIB~1.0-R\mingw64\bin\ranlib.exe libWasher_wiperCtrl.a

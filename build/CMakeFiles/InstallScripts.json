@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/cmake_install.cmake",
+		"C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/googletest/cmake_install.cmake",
+		"C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/googletest/googlemock/cmake_install.cmake",
+		"C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/googletest/googletest/cmake_install.cmake",
+		"C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/Washer_wiperCtrl/cmake_install.cmake",
+		"C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/Washer_Hdlr/cmake_install.cmake",
+		"C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/Wiper_Hdlr/cmake_install.cmake",
+		"C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

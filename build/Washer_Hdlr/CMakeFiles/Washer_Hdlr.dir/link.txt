@@ -1,0 +1,2 @@
+C:\Users\BYASWA~1\DOWNLO~1\WINLIB~1.0-R\mingw64\bin\ar.exe qc libWasher_Hdlr.a CMakeFiles/Washer_Hdlr.dir/washer_Hdlr.c.obj
+C:\Users\BYASWA~1\DOWNLO~1\WINLIB~1.0-R\mingw64\bin\ranlib.exe libWasher_Hdlr.a

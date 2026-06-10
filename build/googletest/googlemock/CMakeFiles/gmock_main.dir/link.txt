@@ -1,0 +1,2 @@
+C:\Users\BYASWA~1\DOWNLO~1\WINLIB~1.0-R\mingw64\bin\ar.exe qc ..\..\lib\libgmock_main.a CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj
+C:\Users\BYASWA~1\DOWNLO~1\WINLIB~1.0-R\mingw64\bin\ranlib.exe ..\..\lib\libgmock_main.a
