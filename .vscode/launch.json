@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Washer Wiper Tests",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/test/Washer_wiperTest.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "C:/Users/B Yaswanth kumar/Downloads/washer_wiper_project/wiper_project/washer_wiper_project/build/test",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
