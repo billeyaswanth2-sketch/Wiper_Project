@@ -27,6 +27,7 @@ wiper_mode value = WIPER_OFF;
 // -----------------------------------------------------------------------------
 
 extern "C"
+
 {
 
 int Com_ReadVehicleMode()
